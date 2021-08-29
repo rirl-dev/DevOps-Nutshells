@@ -1,0 +1,10 @@
+=== Welcome to the DevOps-Nutshells Wiki
+:icons: font
+
+Various topics of interest to Richard R. Landon (aka, rirl).
+
+Please see my https://sites.google.com/view/rirl-dev/home/flying-robots[development] web site
+
+WARNING: This content is under construction. 
+
+
