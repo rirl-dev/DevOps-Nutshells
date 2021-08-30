@@ -1,10 +1,22 @@
-=== Welcome to the DevOps-Nutshells Wiki
+= DevOps Nutshells
+Richard R Landon (rirl) <rlandon@usa.net>
 :icons: font
+:toc:
+
+== Welcome to the DevOps Nutshells Wiki
 
 Various topics of interest to Richard R. Landon (aka, rirl).
 
-Please see my https://sites.google.com/view/rirl-dev/home/flying-robots[development] web site
+Please visit my https://sites.google.com/view/rirl-dev/home/flying-robots[development] web site.
 
-WARNING: This content is under construction. 
+NOTE: This content is under construction.  More coming soon.
 
+=== Defintion of a Nutshell
+A nutshell as used here refers to a single page (possibly duplex) that distills down some knowledge or set of principles on some topic of interest to its author. 
+The goal is to present a very concise reference to key aspects of a software architecture, design, or implementation. 
+It is similar to a https://docs.github.com/en/github/writing-on-github/editing-and-sharing-content-with-gists)[gist] but represents it's content using https://asciidoc.org/[asciidoc] generally and the https://asciidoctor.org/[asciidoctor] toolchain specifically.
 
+The notion of a nutshell is, in this authors perspective, closely tied to the idea of https://www.writethedocs.org/guide/docs-as-code/[documentation as code].
+
+== Articles (Nutshells)
+coming soon...
